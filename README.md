@@ -1,4 +1,4 @@
-####  RNA-Seq-Analysis
+## RNA-Seq-Analysis
 Using high-throughput sequencing techniques to reveal transcriptomics dynamics.
 
 Overview:
