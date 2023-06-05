@@ -5,6 +5,8 @@ Overview:
 This repository contains a pipeline for processing RNA-Seq data. 
 The pipeline includes several steps, such as quality control, trimming, indexing, mapping, alignment, and transcript quantification. 
 
+[*1.Script for RNA-seq-single-end-data-processing*](https://github.com/shekharnishant/RNA-Seq-Analysis/blob/main/rna-seq-single-end-data.ipynb)
+
 ### On single-end data used following tools[script name: rna-seq-single-end-data.ipynb]
 #### FastQC <- MultiQC <- Trimmomatic <- Indexing and a mapping/alignment with Bowtie2 <- Transcript quantifictaion with Featurecount.
 
